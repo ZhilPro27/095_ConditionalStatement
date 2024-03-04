@@ -25,4 +25,6 @@ int main(){
         cStatus = "Tidak Lulus";
     }
 
+    cout << "Anda dinyatakan : " << cStatus;
+    return 0;
 }
