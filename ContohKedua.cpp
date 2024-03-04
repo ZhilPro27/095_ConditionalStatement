@@ -13,4 +13,6 @@ int main(){
     else {
         cStatus = "Ganjil";
     }
+    cout << "Statusnya adalah = " << cStatus << endl;
+    return 0;
 }
