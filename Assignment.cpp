@@ -10,4 +10,9 @@ int main(){
 
     int nNilaiMatematika, nNilaiFisika, nRerata;
     string cStatus;
+
+    cout << "Masukkan nilai matematika = " << endl;
+    cin >> nNilaiMatematika;
+    cout << "Masukkan nilai fisika = " << endl;
+    cin >> nNilaiFisika;
 }
