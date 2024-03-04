@@ -7,4 +7,10 @@ int main(){
     srand(time(0));
     nBilangan = rand() % 10;
     cout << "Bilangannya adalah = " << nBilangan << endl;
+    if (nBilangan % 2 == 0){
+        cStatus = "Genap";
+    }
+    else {
+        cStatus = "Ganjil";
+    }
 }
