@@ -17,4 +17,12 @@ int main(){
     cin >> nNilaiFisika;
 
     nRerata = (nNilaiMatematika + nNilaiFisika) / 2;
+
+    if (nRerata > 60 || nNilaiMatematika > 70){
+        cStatus = "Lulus";
+    }
+    else {
+        cStatus = "Tidak Lulus";
+    }
+
 }
