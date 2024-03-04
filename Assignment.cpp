@@ -15,4 +15,6 @@ int main(){
     cin >> nNilaiMatematika;
     cout << "Masukkan nilai fisika = " << endl;
     cin >> nNilaiFisika;
+
+    nRerata = (nNilaiMatematika + nNilaiFisika) / 2;
 }
