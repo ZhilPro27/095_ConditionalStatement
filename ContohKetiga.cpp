@@ -7,4 +7,6 @@ int main(){
     srand(time(0));
     nBilanganA = rand() % 10;
     nBilanganB = rand() % 10;
+    cout << "Bilangan A adalah = " << nBilanganA << endl;
+    cout << "Bilangan B adalah = " << nBilanganB << endl;
 }
