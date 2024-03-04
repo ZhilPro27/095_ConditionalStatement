@@ -18,4 +18,6 @@ int main(){
     else {
         cStatus = "Bilangan B lebih besar";
     }
+    cout << "Statusnya adalah = " << cStatus << endl;
+    return 0;
 }
