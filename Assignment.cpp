@@ -7,4 +7,7 @@ int main(){
     //maka dinyatakan lulus, atau setidaknya nilai matematika
     //lebih dari 70 dan jika tidak keduanya maka
     //dinyatakan tidak lulus
+
+    int nNilaiMatematika, nNilaiFisika, nRerata;
+    string cStatus;
 }
