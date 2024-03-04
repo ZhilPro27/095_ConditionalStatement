@@ -11,4 +11,6 @@ int main(){
     if (nBilangan % 2 == 0){
         nBilangan = nBilangan + 1;
     }
+    cout << "Nilai akhir = " << nBilangan << endl;
+    return 0;
 }
